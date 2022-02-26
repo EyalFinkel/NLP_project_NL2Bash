@@ -12,3 +12,4 @@ To run the code, create a virtual environment and install the dependencies:
 Then execute the command:
 
 `python main.py -c configs/config.yaml`
+
