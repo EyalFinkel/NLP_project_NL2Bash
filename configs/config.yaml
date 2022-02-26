@@ -1,0 +1,15 @@
+entity: yuval_eyal
+project: nl2bash
+env_var: OPENAI_API_KEY
+seed: 42
+data_path: nl2bash-data.json
+debug: 0
+
+engine: code-davinci-001
+num_val_samples: 1000
+val_batch: 5
+example_batch: 5
+max_tokens: 2000
+prompt_method: 2
+omit_rate: 0.1
+omit_method: 0
