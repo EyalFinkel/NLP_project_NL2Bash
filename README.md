@@ -1,5 +1,5 @@
-# NLP Project - NL2Bash
 # Generating Bash Code from Prompt Using Codex
+## NLP Project - NL2Bash
 
 A project on natural language to Bash commands translation, as part of NLP course.
 
